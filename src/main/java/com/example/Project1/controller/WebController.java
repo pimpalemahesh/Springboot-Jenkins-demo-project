@@ -8,6 +8,6 @@ public class WebController {
     
     @GetMapping
     public String home(){
-        return "Welcome to Spring boot Jenkins demo project";
+        return "Welcome to Hello World";
     }
 }
